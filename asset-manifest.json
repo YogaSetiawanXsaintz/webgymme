@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/webgymme/static/css/main.a9d344d4.css",
+    "main.js": "/webgymme/static/js/main.10b173af.js",
+    "static/js/787.92676b19.chunk.js": "/webgymme/static/js/787.92676b19.chunk.js",
+    "static/media/bggymm.png": "/webgymme/static/media/bggymm.442e22ffcc8dde5aca9d.png",
+    "index.html": "/webgymme/index.html",
+    "main.a9d344d4.css.map": "/webgymme/static/css/main.a9d344d4.css.map",
+    "main.10b173af.js.map": "/webgymme/static/js/main.10b173af.js.map",
+    "787.92676b19.chunk.js.map": "/webgymme/static/js/787.92676b19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9d344d4.css",
+    "static/js/main.10b173af.js"
+  ]
+}
